@@ -10,5 +10,11 @@ namespace project1
         {
             return a / b;
         }
+
+        static int Sum (int a, int b)
+        {
+            return a + b;
+        }
     }
+
 }
