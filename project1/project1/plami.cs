@@ -10,7 +10,7 @@ namespace project1
         {
             string a1 = "a";
             string b1 = "b";
-            return a + b;
+            return a1 + b1;
         }
 
     }
