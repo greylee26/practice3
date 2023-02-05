@@ -12,5 +12,11 @@ namespace project1
             double b1 = 4.5;
             return a + b;
         }
+        static string conc(string a, string b)
+        {
+            string a1;
+            string b1;
+            return a + b;
+        }
     }
 }
