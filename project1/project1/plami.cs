@@ -12,6 +12,9 @@ namespace project1
             string b1 = "b";
             return a1 + b1;
         }
-
+        static double Sum(double a, double b)
+        {
+            return a + b;
+        }
     }
 }
